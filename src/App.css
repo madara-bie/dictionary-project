@@ -1,6 +1,23 @@
-.App-logo {
-    max-width: 150px;
-    margin: 40px auto 20px auto;
-    display: block;
-    border-radius: 50%;
+* {
+    font-family: 'Cormorant Garamond', serif;
 }
+
+header {
+    height: 250px;
+    margin: 40px auto 20px auto;
+}
+
+.App-header h1,
+.App-header h4 {
+    margin: 40px auto 0 auto;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 45px;
+}
+.App-header h4 {
+    margin: 5px auto 25px auto;
+    padding-top: 0;
+    font-size: 25px;
+}
+
+
