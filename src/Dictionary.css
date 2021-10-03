@@ -30,11 +30,13 @@
     padding: 6px 4px;
     border: 1px solid #ddd;
     border-radius: 5px;
-    color: #333;
+    color: rgb(158, 158, 158);
     font-size: 25px;
+    margin-left: 25%;
 }
 
 .hint {
     font-size: 18px;
     margin-top: 10px;
+    margin-left: 25%;
 }
