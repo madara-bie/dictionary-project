@@ -3,6 +3,11 @@ body {
     background: radial-gradient(circle at 10% 20%, rgb(242, 235, 243) 0%, rgb(234, 241, 249) 90.1%);
 }
 
+.App {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
 a {
     color: rgb(106, 141, 155);
 }
