@@ -1,0 +1,40 @@
+.App-header-h1 {
+    color: #608DB7;
+    font-weight: 500;
+    letter-spacing: 0.23rem;
+}
+
+.App-header-h1,
+.App-header-h4 {
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 45px;
+}
+.App-header-h4 {
+    margin: 5px auto 25px auto;
+    padding-top: 0;
+    font-size: 25px;
+}
+
+.Dictionary section {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+}
+
+.Dictionary input {
+    width: 50%;
+    padding: 6px 4px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    color: #333;
+    font-size: 25px;
+}
+
+.hint {
+    font-size: 18px;
+    margin-top: 10px;
+}

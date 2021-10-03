@@ -1,22 +1,10 @@
 * {
     font-family: 'Cormorant Garamond', serif;
+    background: radial-gradient(circle at 10% 20%, rgb(242, 235, 243) 0%, rgb(234, 241, 249) 90.1%);
 }
 
-header {
-    height: 150px;
-    margin: 40px auto 20px auto;
-}
-.App-header h1,
-.App-header h4 {
-    margin: 40px auto 0 auto;
-    padding-top: 20px;
-    text-align: center;
-    font-size: 45px;
-}
-.App-header h4 {
-    margin: 5px auto 25px auto;
-    padding-top: 0;
-    font-size: 25px;
+a {
+    color: rgb(106, 141, 155);
 }
 
 .App-footer {
